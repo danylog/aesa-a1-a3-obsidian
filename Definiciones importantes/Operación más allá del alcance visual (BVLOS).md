@@ -1,0 +1,1 @@
+Toda aquella #operación contraria a [[Operación dentro del alcance visual (VLOS)]]

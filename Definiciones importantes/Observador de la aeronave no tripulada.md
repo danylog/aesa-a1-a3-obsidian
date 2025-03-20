@@ -1,0 +1,1 @@
+#persona situada al lado del piloto a distancia que, mediante la observación visual de la #aeronave , ayuda al piloto a distancia a mantener dicha aeronave en modo [[Operación dentro del alcance visual (VLOS)|VLOS]] y a efectuar el vuelo de forma segura

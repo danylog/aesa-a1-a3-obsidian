@@ -1,0 +1,1 @@
+Reuniones en que las #personas no pueden evitar el impacto de un [[UAS]] en caída libre debido a la densidad de personas y el espacio

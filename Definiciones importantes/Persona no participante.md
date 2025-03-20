@@ -1,0 +1,1 @@
+Toda #Persona que no participa en la operación del [[UAS]] o que no está al corriente de las instrucciones ni dio su consentimiento explicito.
