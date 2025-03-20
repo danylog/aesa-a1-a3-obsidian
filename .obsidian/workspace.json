@@ -6,7 +6,6 @@
       {
         "id": "ac540a2c8eb631b8",
         "type": "tabs",
-        "dimension": 55.73893473368342,
         "children": [
           {
             "id": "921666768662d932",
@@ -14,20 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operador de UAS.md",
+                "file": "UE2019/947.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operador de UAS"
+              "title": "947"
             }
           }
         ]
       },
       {
-        "id": "ff603756988d1394",
+        "id": "f39334616346af52",
         "type": "tabs",
-        "dimension": 44.26106526631658,
         "children": [
           {
             "id": "e438f33331459087",
@@ -197,20 +195,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e438f33331459087",
+  "active": "921666768662d932",
   "lastOpenFiles": [
-    "UAS.md",
-    "Operador de UAS.md",
-    "Piloto a distancia.md",
-    "RPAS.md",
+    "UE2019/947.md",
+    "UE2019/945.md",
+    "Clases de UAS.md",
+    "UE2020/1058.md",
+    "Real Decreto 2024/517.md",
+    "UE2020",
     "Conceptos básicos.md",
+    "EASA.md",
     "Contexto histórico.md",
+    "Operador de UAS.md",
+    "RPAS.md",
+    "Piloto a distancia.md",
+    "UAS.md",
+    "Marco normativo.md",
+    "Concepto Normativo I.md",
+    "UE2019 945.md",
+    "UE2019 947.md",
+    "AESA.md",
+    "Real Decreto 2024",
+    "UE2019",
     "Dron.md",
     "attachments/Pasted image 20250320111728.png",
     "attachments/Pasted image 20250320111634.png",
     "attachments/Pasted image 20250320111619.png",
     "attachments",
-    "Concepto Normativo I.md",
     "Welcome.md"
   ]
 }
