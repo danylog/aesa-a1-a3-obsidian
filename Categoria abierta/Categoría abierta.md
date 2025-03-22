@@ -11,4 +11,7 @@ Normas:
 4. **NO** se permite el sobrevuelo de [[Concentraciones de personas]] y se debe mantener una distancia segura con [[Persona no participante|personas no participantes en la operación]].
 5. El piloto puede ayudarse de un [[Observador de la aeronave no tripulada]] si lo considera oportuno, pero siempre es el **piloto** el último responsable de la seguridad de la #operación .
 6. Está prohibido el transporte de mercancias peligrosas ni dejar caer ni proyectar ningún objeto o material.
+
 ![[Pasted image 20250320204554.png]]
+7. **Restricción de ruido**. Los UAS [[C0]],[[C1]],[[C2]],[[C3]] y [[C4]] que no sean de [[Ala fija]] deben incluir una indicación de nivel de ponderación A
+![[Pasted image 20250322184758.png]]

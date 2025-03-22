@@ -1,0 +1,1 @@
+UE2019/[[947]] define dos escenarios estándar que **no** son del todo aplicables hoy en día por limitaciones técnicas. por eso, aún convven los STS-ES y STS-UE en España. 

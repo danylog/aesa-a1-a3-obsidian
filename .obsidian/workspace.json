@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categoria abierta/A2.md",
+                "file": "Definiciones importantes/Sistema de identificación a distancia directa (DRI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A2"
+              "title": "Sistema de identificación a distancia directa (DRI)"
             }
           },
           {
@@ -158,10 +158,14 @@
             "id": "dc17d391b4c091ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Categoría específica/Escenario estándar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escenario estándar"
             }
           }
         ],
@@ -323,40 +327,43 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b345c3e03c4dbed2",
+  "active": "16aebf9debd671b1",
   "lastOpenFiles": [
-    "README.md",
-    "Categoria abierta/A2.md",
-    "leyes/UE2019/945.md",
-    "leyes/Marco normativo.md",
-    "Clases de UAS/C1.md",
+    "Categoría específica/Escenario estándar.md",
+    "Categoría específica/Categoría específica.md",
+    "attachments/Pasted image 20250322200950.png",
+    "attachments/Pasted image 20250322200455.png",
     "Definiciones importantes/Sistema de identificación a distancia directa (DRI).md",
-    "Categoria abierta/A3.md",
-    "Clases de UAS/C2.md",
-    "Definiciones importantes/Operación dentro del alcance visual (VLOS).md",
+    "Clases de UAS/C6.md",
+    "Clases de UAS/C5.md",
+    "Clases de UAS/C3.md",
+    "Clases de UAS/C4.md",
     "Categoria abierta/Categoría abierta.md",
-    "Categoria abierta/A1.md",
-    "Conceptos básicos/UAS.md",
+    "attachments/Pasted image 20250322184758.png",
+    "Clases de UAS/C2.md",
+    "Categoria abierta/A2.md",
+    "Clases de UAS/C1.md",
     "Clases de UAS/C0.md",
-    "Clases de UAS",
+    "Categoria abierta/A1.md",
+    "Categoria abierta/A3.md",
     "Clases de UAS/UAS \"Legacy\".md",
-    "Clases de UAS/Construcción privada.md",
+    "leyes/UE2019/945.md",
+    "leyes/UE2019/947.md",
     "Definiciones importantes/Sistema de geoconsciencia.md",
+    "Definiciones importantes/Operación dentro del alcance visual (VLOS).md",
+    "README.md",
+    "leyes/Marco normativo.md",
+    "Conceptos básicos/UAS.md",
+    "Clases de UAS",
+    "Clases de UAS/Construcción privada.md",
     "Conceptos básicos/Categorías de operación y clases de UAS.md",
     "leyes/Real Decreto 2024/517.md",
     "Conceptos básicos/Piloto a distancia.md",
-    "leyes/Contexto histórico.md",
-    "Definiciones importantes/Definiciones importantes.md",
-    "Conceptos básicos/Conceptos básicos.md",
     "Conceptos básicos",
-    "Categoría específica/Categoría específica.md",
     "Categoría específica",
     "organismos",
-    "A2.md",
-    "Clases de UAS.md",
     "Categoria abierta",
     "leyes",
-    "Definiciones importantes/Concentraciones de personas.md",
     "attachments/Pasted image 20250320204554.png",
     "attachments/Pasted image 20250320203633.png",
     "attachments/Pasted image 20250320201921.png",
