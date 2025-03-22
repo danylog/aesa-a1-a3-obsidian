@@ -7,4 +7,4 @@ Este sistema debe transmitir periodicamente:
 - Trayectoria medida en el sentido de las agujas del reloj a partir del norte geográfico y la velocidad de la UA respecto al suelo.
 - Posición geográfica del [[Piloto a distancia]]
 - Indicación de emergencia
-Todos los UAS de clase [[C1]], [[C2]], [[C3]], [[C5]] ,[[C6]] y todos los UAS sin marcado de clase en operaciones de [[Categoría específica]]
+Todos los UAS de clase [[C1]], [[C2]], [[C3]], [[C4]] y todos los UAS sin marcado de clase en operaciones de [[Categoría específica]]
