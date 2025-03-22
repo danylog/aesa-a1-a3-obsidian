@@ -4,3 +4,4 @@ Resto ([[C1]],[[C2]],[[C3]],[[C4]], legacy<25kg, [[construcción privada]] <25kg
 
 (Según R.D [[517]]/2024)
 ![[Pasted image 20250322235625.png]]
+
