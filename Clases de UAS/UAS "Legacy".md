@@ -1,0 +1,1 @@
+Aquellos [[UAS]] introducidos al mercado antes del 1 de enero de 2024.

@@ -8,5 +8,5 @@ Aeronave+equipo para controlarla de forma remota. El término UAS engloba los [[
 
 Los términos [[RPAS]], dron y aeromodelo están englobados dentro del concepto UAS.
 
-En los reglamentos [[UE2019/945]] y [[UE2019/947]] **siempre** se usará el término UAS.
+En los reglamentos [[945]] y [[947]] **siempre** se usará el término UAS.
 
