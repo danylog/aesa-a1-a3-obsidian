@@ -146,12 +146,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leyes/Real Decreto 2024/517.md",
+                "file": "Categoría certificada/Categoría certificada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "517"
+              "title": "Categoría certificada"
             }
           },
           {
@@ -160,16 +160,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categoría específica/Escenario estándar.md",
+                "file": "Categoría específica/Categoría específica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escenario estándar"
+              "title": "Categoría específica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,11 +326,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "dc17d391b4c091ff",
+  "active": "84c8a52a50b9f00a",
   "lastOpenFiles": [
-    "Definiciones importantes/Sistema de identificación a distancia directa (DRI).md",
-    "Categoría específica/Escenario estándar.md",
+    "leyes/Real Decreto 2024/517.md",
+    "Categoría certificada/Categoría certificada.md",
     "Categoría específica/Categoría específica.md",
+    "Categoría certificada",
+    "Categoría específica/Escenario estándar.md",
+    "Definiciones importantes/Sistema de identificación a distancia directa (DRI).md",
     "attachments/Pasted image 20250322200950.png",
     "attachments/Pasted image 20250322200455.png",
     "Clases de UAS/C6.md",
@@ -357,8 +359,6 @@
     "Clases de UAS",
     "Clases de UAS/Construcción privada.md",
     "Conceptos básicos/Categorías de operación y clases de UAS.md",
-    "leyes/Real Decreto 2024/517.md",
-    "Conceptos básicos/Piloto a distancia.md",
     "Conceptos básicos",
     "Categoría específica",
     "organismos",
@@ -370,7 +370,6 @@
     "Definiciones importantes",
     "UE2020",
     "leyes/Real Decreto 2024",
-    "leyes/UE2019",
     "attachments/Pasted image 20250320111728.png",
     "attachments/Pasted image 20250320111634.png",
     "attachments/Pasted image 20250320111619.png"
