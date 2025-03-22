@@ -1,7 +1,7 @@
 Sistema que garantiza la emisión local de información sobre los [[UAS]] en funcionamiento, incluido el marcado, de modo que se pueda obtener sin acceder físicamente a las aeronaves.
 
 Este sistema debe transmitir periodicamente:
-- Número de registro del [[Operador de UAS]] y el código de verificación
+- [[Registro como operador|Número de registro]] del [[Operador de UAS]] y el código de verificación
 - Número de serie único del [[UAS]]
 - Sello de tiempo, posición geográfica del [[Sistema de geoconsciencia]] y su [[altura]] por encima de la superficie
 - Trayectoria medida en el sentido de las agujas del reloj a partir del norte geográfico y la velocidad de la UA respecto al suelo.

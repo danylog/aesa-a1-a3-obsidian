@@ -160,12 +160,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leyes/Registro como operador.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registro como operador"
+              "title": "README"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "regis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -343,8 +343,10 @@
   },
   "active": "e21eccf63db01c35",
   "lastOpenFiles": [
-    "leyes/Edades mínimas.md",
+    "attachments/Pasted image 20250323000819.png",
     "leyes/Registro como operador.md",
+    "Definiciones importantes/Sistema de identificación a distancia directa (DRI).md",
+    "leyes/Edades mínimas.md",
     "Clases de UAS/Construcción privada.md",
     "attachments/Pasted image 20250322235625.png",
     "attachments/Pasted image 20250322235612.png",
@@ -353,7 +355,6 @@
     "Categoría específica/Categoría específica.md",
     "Categoría certificada",
     "Categoría específica/Escenario estándar.md",
-    "Definiciones importantes/Sistema de identificación a distancia directa (DRI).md",
     "attachments/Pasted image 20250322200950.png",
     "attachments/Pasted image 20250322200455.png",
     "Clases de UAS/C6.md",
@@ -374,7 +375,6 @@
     "Definiciones importantes/Sistema de geoconsciencia.md",
     "Definiciones importantes/Operación dentro del alcance visual (VLOS).md",
     "README.md",
-    "leyes/Marco normativo.md",
     "Clases de UAS",
     "Conceptos básicos",
     "Categoría específica",
