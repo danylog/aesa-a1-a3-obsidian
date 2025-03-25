@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/presión.md",
+                "file": "Teoría de vuelo/sustentación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "presión"
+              "title": "sustentación"
             }
           }
         ]
@@ -314,7 +314,9 @@
   },
   "active": "d443a1c6927390ad",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250325223838.png",
     "Teoría de vuelo/Principios básicos de vuelo.md",
+    "Teoría de vuelo/sustentación.md",
     "Teoría de vuelo/presión.md",
     "Teoría de vuelo/ala.md",
     "Teoría de vuelo/perfil aerodinámico.md",
@@ -349,8 +351,6 @@
     "attachments/Pasted image 20250322200950.png",
     "attachments/Pasted image 20250322200455.png",
     "Clases de UAS/C6.md",
-    "Clases de UAS/C5.md",
-    "Clases de UAS/C3.md",
     "attachments/Pasted image 20250322184758.png",
     "Clases de UAS",
     "Conceptos básicos",
