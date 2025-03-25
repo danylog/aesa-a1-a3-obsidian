@@ -1,1 +1,1 @@
-Aquellos aeromodelos que tienen [[hélice|hélices]] con [[rotor|rotores]] como forma principal y única para generar [[sustentación]].
+Aquellos aeromodelos que tienen [[hélice|hélices]] con [[rotor|rotores]] como forma principal y única para generar [[Sustentación]].

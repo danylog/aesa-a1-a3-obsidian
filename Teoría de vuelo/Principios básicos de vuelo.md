@@ -5,10 +5,12 @@ Principios básicos por los que un [[UAS]] vuela:
 - [[Efecto Venturi]]
 - [[Tercera ley de Newton]]
 - [[Ángulo de ataque]]
+- [[Sustentación]]
+- [[Empuje]]
+- [[Peso]]
+- [[Resistencia]]
 
-[[sustentación]]
-
-
+![[Pasted image 20250325225120.png]]
 
 
 
