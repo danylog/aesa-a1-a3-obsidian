@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/Tercera ley de Newton.md",
+                "file": "Teoría de vuelo/presión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tercera ley de Newton"
+              "title": "presión"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ala fija",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,13 +315,17 @@
   "active": "d443a1c6927390ad",
   "lastOpenFiles": [
     "Teoría de vuelo/Principios básicos de vuelo.md",
-    "Teoría de vuelo/Tercera ley de Newton.md",
-    "Teoría de vuelo/Efecto Venturi.md",
+    "Teoría de vuelo/presión.md",
+    "Teoría de vuelo/ala.md",
+    "Teoría de vuelo/perfil aerodinámico.md",
+    "Teoría de vuelo/Aerodinámica.md",
+    "attachments/Pasted image 20250325222311.png",
     "Teoría de vuelo/Principio de Bernoulli.md",
+    "Teoría de vuelo/Efecto Venturi.md",
+    "Teoría de vuelo/Tercera ley de Newton.md",
     "attachments/Pasted image 20250325221226.png",
     "Teoría de vuelo/Ángulo de ataque.md",
     "attachments/Pasted image 20250325211723.png",
-    "Teoría de vuelo/Aerodinámica.md",
     "attachments/Pasted image 20250325211235.png",
     "leyes/UE2019/945.md",
     "Teoría de vuelo",
@@ -347,17 +351,13 @@
     "Clases de UAS/C6.md",
     "Clases de UAS/C5.md",
     "Clases de UAS/C3.md",
-    "Clases de UAS/C4.md",
     "attachments/Pasted image 20250322184758.png",
-    "Clases de UAS/C2.md",
-    "Categoria abierta/A2.md",
     "Clases de UAS",
     "Conceptos básicos",
     "Categoría específica",
     "organismos",
     "Categoria abierta",
     "leyes",
-    "attachments/Pasted image 20250320204554.png",
     "Definiciones importantes",
     "UE2020"
   ]
