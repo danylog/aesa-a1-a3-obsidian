@@ -1,0 +1,1 @@
+derivada de posición. Distancia partida por el tiempo.
