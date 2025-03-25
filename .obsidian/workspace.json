@@ -146,10 +146,14 @@
             "id": "acaba5b1bd9ccfe4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -369,6 +373,7 @@
   },
   "active": "acaba5b1bd9ccfe4",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250325230700.png",
     "Categoria abierta/Categoría abierta.md",
     "Zonas Geográficas generales.md",
     "Definiciones importantes/Zonas Geográficas.md",
@@ -402,7 +407,6 @@
     "Clases de UAS/Construcción privada.md",
     "Definiciones importantes/Operación dentro del alcance visual (VLOS).md",
     "Conceptos básicos/UAS.md",
-    "Definiciones importantes/Sistema de geoconsciencia.md",
     "attachments/Pasted image 20250323000819.png",
     "attachments/Pasted image 20250322235625.png",
     "attachments/Pasted image 20250322235612.png",
