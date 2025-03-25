@@ -13,5 +13,5 @@ Normas:
 6. Está prohibido el transporte de mercancias peligrosas ni dejar caer ni proyectar ningún objeto o material.
 
 ![[Pasted image 20250320204554.png]]
-7. **Restricción de ruido**. Los UAS [[C0]],[[C1]],[[C2]],[[C3]] y [[C4]] que no sean de [[Ala fija]] deben incluir una indicación de nivel de ponderación A
+7. **Restricción de ruido**. Los UAS [[C0]],[[C1]],[[C2]],[[C3]] y [[C4]] que no sean de [[Ala fija]] ([[multirrotores]]) deben incluir una indicación de nivel de ponderación A
 ![[Pasted image 20250322184758.png]]

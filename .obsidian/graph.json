@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"Teoría de vuelo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Componentes de un UAS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +81,6 @@
   "repelStrength": 13.2126696832579,
   "linkStrength": 0.557448318693994,
   "linkDistance": 30,
-  "scale": 0.4313041349733502,
+  "scale": 0.35843410612788495,
   "close": true
 }
