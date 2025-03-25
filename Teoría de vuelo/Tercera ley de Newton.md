@@ -1,0 +1,1 @@
+Toda acción tiene una reacción de igual magnitud. Las moléculas del aire que vienen por debajo chocan contra el [[perfil aerodinámico]] y son desviadas hacia abajo produciendo la reacción en el perfil de ir hacia arriba ([[sustentación]]).

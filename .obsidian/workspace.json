@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/Efecto Venturi.md",
+                "file": "Teoría de vuelo/Tercera ley de Newton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Efecto Venturi"
+              "title": "Tercera ley de Newton"
             }
           }
         ]
@@ -315,8 +315,9 @@
   "active": "d443a1c6927390ad",
   "lastOpenFiles": [
     "Teoría de vuelo/Principios básicos de vuelo.md",
-    "Teoría de vuelo/Principio de Bernoulli.md",
+    "Teoría de vuelo/Tercera ley de Newton.md",
     "Teoría de vuelo/Efecto Venturi.md",
+    "Teoría de vuelo/Principio de Bernoulli.md",
     "attachments/Pasted image 20250325221226.png",
     "Teoría de vuelo/Ángulo de ataque.md",
     "attachments/Pasted image 20250325211723.png",
