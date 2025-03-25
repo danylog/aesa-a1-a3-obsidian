@@ -1,0 +1,1 @@
+Aquellos aeromodelos que **pueden** utilizar [[hélice]] para generar **propulsión**, pero la [[sustentación]] es causada por el [[perfil aerodinámico]] del área del [[ala]] que es immobil respecto al aeromodelo.

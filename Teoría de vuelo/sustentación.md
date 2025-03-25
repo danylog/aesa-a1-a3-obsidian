@@ -7,5 +7,5 @@ La presión tiende a igualarse, por la [[Tercera ley de Newton]] se empuja el pe
 Además, los flujos de aire rápido (del extradós) y lento (del intradós) se unen en el [[ala#^6c9d87|borde de salida]] que genera **flujo inducido** con una fuerza adicional hacia arriba.
 ![[Pasted image 20250325223838.png]]
 
-En [[multirrotores]] son los [[rotor|rotores]] que generan flujo de aire a las hélices que generan sustentación. En el [[Ala fija]] el flujo de aire se genera por la [[velocidad]] que el aeromodelo alcanza en su propulsión.
+En [[multirrotores]] son los [[rotor|rotores]] que generan flujo de aire a las [[hélice|hélices]] que generan sustentación. En el [[Ala fija]] el flujo de aire se genera por la [[velocidad]] que el aeromodelo alcanza en su propulsión.
 
