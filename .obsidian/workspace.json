@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/Principio de Bernoulli.md",
+                "file": "Teoría de vuelo/Efecto Venturi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principio de Bernoulli"
+              "title": "Efecto Venturi"
             }
           }
         ]
@@ -316,6 +316,8 @@
   "lastOpenFiles": [
     "Teoría de vuelo/Principios básicos de vuelo.md",
     "Teoría de vuelo/Principio de Bernoulli.md",
+    "Teoría de vuelo/Efecto Venturi.md",
+    "attachments/Pasted image 20250325221226.png",
     "Teoría de vuelo/Ángulo de ataque.md",
     "attachments/Pasted image 20250325211723.png",
     "Teoría de vuelo/Aerodinámica.md",
@@ -348,8 +350,6 @@
     "attachments/Pasted image 20250322184758.png",
     "Clases de UAS/C2.md",
     "Categoria abierta/A2.md",
-    "Clases de UAS/C1.md",
-    "Clases de UAS/C0.md",
     "Clases de UAS",
     "Conceptos básicos",
     "Categoría específica",
@@ -357,7 +357,6 @@
     "Categoria abierta",
     "leyes",
     "attachments/Pasted image 20250320204554.png",
-    "attachments/Pasted image 20250320203633.png",
     "Definiciones importantes",
     "UE2020"
   ]

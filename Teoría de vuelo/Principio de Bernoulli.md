@@ -4,5 +4,7 @@ $$p_d+p_e=p_t$$
 
 
 
+De aquí se puede deducir que si la [[velocidad]] se incrementa, la [[presión]] disminuye.
+
 
 
