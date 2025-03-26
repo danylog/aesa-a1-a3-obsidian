@@ -1,0 +1,1 @@
+Es la parte compuesta por aquel instumento, accesorio, equipo o mecanismo instalado o fijado en la aeronave y no se utilice ni este destinado al manejo de la aeronave.
