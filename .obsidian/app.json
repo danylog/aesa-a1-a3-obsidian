@@ -2,6 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachments",
-  "newFileLocation": "current",
-  "newFileFolderPath": "Definiciones importantes"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Componentes de un UAS"
 }

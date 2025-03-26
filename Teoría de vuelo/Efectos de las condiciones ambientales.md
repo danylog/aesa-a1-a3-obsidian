@@ -1,0 +1,4 @@
+
+- [[altura]]
+- [[humedad]]
+- [[viento]]
