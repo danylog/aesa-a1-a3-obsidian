@@ -1,0 +1,1 @@
+Los Reguladores de [[velocidad]] son encargados de que los [[rotor]]es giren a velocidad correcta mediante un circuito electrónico.
