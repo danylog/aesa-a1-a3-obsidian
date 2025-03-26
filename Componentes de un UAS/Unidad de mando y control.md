@@ -1,0 +1,1 @@
+Emisores y receptores de la señal que da ordenes de movimiento del [[UAS]] y transmite los datos actuales.
