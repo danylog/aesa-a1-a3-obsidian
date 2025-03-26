@@ -174,14 +174,14 @@
             "id": "36c7350e1eb65e8f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Componentes de un UAS/propulsión.md",
-                "bFile": "Componentes de un UAS/propulsión.md",
-                "aRef": ""
+                "file": "Componentes de un UAS/Baterías.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: propulsión"
+              "icon": "lucide-file",
+              "title": "Baterías"
             }
           },
           {
@@ -401,10 +401,10 @@
   },
   "active": "36c7350e1eb65e8f",
   "lastOpenFiles": [
+    "Teoría de vuelo/Principios de mando y control.md",
     "Componentes de un UAS/Grupo motopropulsor.md",
     "Componentes de un UAS/hélice.md",
     "Componentes de un UAS/propulsión.md",
-    "Teoría de vuelo/Principios de mando y control.md",
     "Componentes de un UAS/Chasis-Marco-fuselaje.md",
     "Componentes de un UAS/Tren de aterrizaje.md",
     "Componentes de un UAS/Carga de pago.md",
