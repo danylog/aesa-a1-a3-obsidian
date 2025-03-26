@@ -4,7 +4,7 @@ Repositorio con notas de <a href="https://obsidian.md/">obsidian</a> para la pru
 
 Latest graph view (25.03.2025)
 
-<img src="attachments/Pasted image 20250325230700.png">
+<img src="attachments/Pasted image 20250326214539.png">
 
 ```contributionGraph
 title: Contributions
