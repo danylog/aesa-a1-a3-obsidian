@@ -174,14 +174,14 @@
             "id": "36c7350e1eb65e8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Componentes de un UAS/hélice.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Componentes de un UAS/propulsión.md",
+                "bFile": "Componentes de un UAS/propulsión.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "hélice"
+              "icon": "diff",
+              "title": "Diff: propulsión"
             }
           },
           {
@@ -402,6 +402,8 @@
   "active": "36c7350e1eb65e8f",
   "lastOpenFiles": [
     "Componentes de un UAS/Grupo motopropulsor.md",
+    "Componentes de un UAS/hélice.md",
+    "Componentes de un UAS/propulsión.md",
     "Teoría de vuelo/Principios de mando y control.md",
     "Componentes de un UAS/Chasis-Marco-fuselaje.md",
     "Componentes de un UAS/Tren de aterrizaje.md",
@@ -425,9 +427,7 @@
     "Definiciones importantes/altura.md",
     "Teoría de vuelo/Tercera ley de Newton.md",
     "README.md",
-    "Untitled.md",
     "attachments/Pasted image 20250325230700.png",
-    "Categoria abierta/Categoría abierta.md",
     "attachments/Pasted image 20250325225120.png",
     "Componentes de un UAS",
     "attachments/Pasted image 20250325223838.png",
