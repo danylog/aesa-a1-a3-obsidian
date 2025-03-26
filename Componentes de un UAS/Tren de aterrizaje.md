@@ -1,0 +1,1 @@
+Es el componente usado en el [[aterrizaje]] para evitar que la aeronave sufra daños. chássis en [[Ala fija]] y patas en [[multirrotores]] y cuadricópteros.
