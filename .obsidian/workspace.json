@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/Ejes de vuelo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejes de vuelo"
+              "title": "README"
             }
           },
           {
@@ -162,12 +162,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/Vertical.md",
+                "file": "Teoría de vuelo/Movimientos de vuelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertical"
+              "title": "Movimientos de vuelo"
             }
           },
           {
@@ -429,12 +429,17 @@
   },
   "active": "1625710fa7f67a39",
   "lastOpenFiles": [
-    "Teoría de vuelo/Vertical.md",
+    "Teoría de vuelo/Guiñada.md",
+    "Teoría de vuelo/Movimientos de vuelo.md",
+    "Teoría de vuelo/Alabeo.md",
+    "Teoría de vuelo/Cabeceo.md",
+    "Teoría de vuelo/Eje-movimiento-actuación.md",
     "Teoría de vuelo/Ejes de vuelo.md",
+    "README.md",
+    "Teoría de vuelo/Vertical.md",
+    "Componentes de un UAS/ala.md",
     "Teoría de vuelo/Lateral o trasversal.md",
     "Teoría de vuelo/Longitudinal.md",
-    "Teoría de vuelo/Eje-movimiento-actuación.md",
-    "Teoría de vuelo/Movimientos de vuelo.md",
     "Teoría de vuelo/Principios de mando y control.md",
     "Componentes de un UAS/Unidad de mando y control.md",
     "Componentes de un UAS/receptores.md",
@@ -450,13 +455,8 @@
     "Componentes de un UAS/Chasis-Marco-fuselaje.md",
     "Teoría de vuelo/aterrizaje.md",
     "Teoría de vuelo/Sustentación.md",
-    "README.md",
     "attachments/Pasted image 20250326214539.png",
     "attachments/Pasted image 20250326214347.png",
-    "Componentes de un UAS/hélice.md",
-    "Componentes de un UAS/propulsión.md",
-    "Componentes de un UAS/ala.md",
-    "Teoría de vuelo/Efectos de las condiciones ambientales.md",
     "attachments/Pasted image 20250325230700.png",
     "attachments/Pasted image 20250325225120.png",
     "Componentes de un UAS",
