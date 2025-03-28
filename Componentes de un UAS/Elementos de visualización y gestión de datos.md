@@ -1,0 +1,1 @@
+Procesa los datos de posición y otras condiciones de la aeronave y los muestra al [[Piloto a distancia]].

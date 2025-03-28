@@ -1,0 +1,1 @@
+Los [[UAS]] como forma general disponen de una transmisora radio con la cual el [[Piloto a distancia]] puede controlar sus movimientos. Lo más básico es control por una unidad de sticks y botones, pero también existen sistemas más avanzados con ordenadores o incluso remolques o habitaciones.
