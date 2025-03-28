@@ -1,0 +1,1 @@
+Es el componente físico que permite el movimiento de [[UAS]] alrededor de sus [[Ejes de vuelo]]. Es creado por el programa del [[Piloto a distancia]] a traves de la [[Unidad de mando y control]], enviada a la [[Placa controladora del vuelo]] que en su turno controla el [[Grupo motopropulsor]] con los [[ESC]]s.
