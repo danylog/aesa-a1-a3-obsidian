@@ -176,12 +176,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Componentes de un UAS/receptores.md",
+                "file": "Teoría de vuelo/Ejes de vuelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "receptores"
+              "title": "Ejes de vuelo"
             }
           },
           {
@@ -401,11 +401,15 @@
   },
   "active": "36c7350e1eb65e8f",
   "lastOpenFiles": [
+    "Teoría de vuelo/Longitudinal.md",
+    "Teoría de vuelo/Ejes de vuelo.md",
+    "Teoría de vuelo/Eje-movimiento-actuación.md",
+    "Teoría de vuelo/Movimientos de vuelo.md",
+    "Teoría de vuelo/Principios de mando y control.md",
     "Componentes de un UAS/Unidad de mando y control.md",
     "Componentes de un UAS/receptores.md",
     "Componentes de un UAS/Elementos de visualización y gestión de datos.md",
     "Componentes de un UAS/Emisores.md",
-    "Teoría de vuelo/Principios de mando y control.md",
     "Componentes de un UAS/Tren de aterrizaje.md",
     "Componentes de un UAS/Carga de pago.md",
     "Componentes de un UAS/Gimbal o cardán.md",
@@ -425,10 +429,6 @@
     "Teoría de vuelo/Efectos de las condiciones ambientales.md",
     "Teoría de vuelo/Principios básicos de vuelo.md",
     "Definiciones importantes/viento.md",
-    "Definiciones importantes/humedad.md",
-    "Teoría de vuelo/Resistencia.md",
-    "Teoría de vuelo/Peso.md",
-    "Teoría de vuelo/Principio de Bernoulli.md",
     "attachments/Pasted image 20250325230700.png",
     "attachments/Pasted image 20250325225120.png",
     "Componentes de un UAS",
