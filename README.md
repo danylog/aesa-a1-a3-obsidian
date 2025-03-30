@@ -63,7 +63,7 @@ Para pasar:
 		- [x] Principios de mando y control
 			- [x] Descripción del sistema de mando y control
 			- [x] Estación de control
-			- [ ] Controles de vuelo
+			- [x] Controles de vuelo
 		- [ ] Comunicaciones
 		- [ ] Sensores incluidos en los UAS
 		- [ ] Instrumentos de vuelo
