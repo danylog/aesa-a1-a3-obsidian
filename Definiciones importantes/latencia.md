@@ -1,0 +1,1 @@
+Tiempo necesario para producir, procesar, enviar, recibir, interpretar y ejecutar una orden de comando.
