@@ -1,7 +1,7 @@
 Permiten el intercambio de información entre los distintos sistemas de tierra y aeronave.
 
 - Enlace de subida: de la [[Unidad de mando y control]] al [[UAS]]
-	- Comandos de control (plan de vuelo, [[velocidad]], [[rumbo]], [[despegue]], [[aterrizaje]], etc.)
+	- Comandos de control (plan de vuelo, [[velocidad]], [[rumbo]], [[despegue]], [[aterrizaje]], [[Vuelta a casa]], etc.)
 	- Correcciones GNSS
 	- Comandos para la [[Carga de pago]], manejo del [[Gimbal o cardán]] y el comando de órdenes de video/imagen.
 - Enlace de bajada: del UAS a la GCS

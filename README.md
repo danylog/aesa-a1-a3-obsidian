@@ -8,7 +8,7 @@ Latest graph view (25.03.2025)
 
 ```contributionGraph
 title: Contributions
-graphType: default
+graphType: calendar
 dateRangeValue: 14
 dateRangeType: LATEST_DAYS
 startOfWeek: "1"
@@ -64,7 +64,7 @@ Para pasar:
 			- [x] Descripción del sistema de mando y control
 			- [x] Estación de control
 			- [x] Controles de vuelo
-		- [ ] Comunicaciones
+		- [x] Comunicaciones
 		- [ ] Sensores incluidos en los UAS
 		- [ ] Instrumentos de vuelo
 		- [ ] Información imprescindible del UAS
