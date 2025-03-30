@@ -1,0 +1,1 @@
+volumen operacional del [[espacio aéreo]] SOLO EN EL CUAL la aeronave podrá volar.

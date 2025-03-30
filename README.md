@@ -2,9 +2,9 @@
 Repositorio con notas de <a href="https://obsidian.md/">obsidian</a> para la prueba del Cerificado UAS A1/A3 de AESA
 <img src="attachments/Pasted image 20250323000819.png">
 
-Latest graph view (25.03.2025)
+Latest graph view (30.03.2025)
 
-<img src="attachments/Pasted image 20250326214539.png">
+<img src="attachments/Pasted image 20250331004242.png">
 
 ```contributionGraph
 title: Contributions
@@ -65,7 +65,7 @@ Para pasar:
 			- [x] Estación de control
 			- [x] Controles de vuelo
 		- [x] Comunicaciones
-		- [ ] Sensores incluidos en los UAS
+		- [x] Sensores incluidos en los UAS
 		- [ ] Instrumentos de vuelo
 		- [ ] Información imprescindible del UAS
 		- [ ] Mantenimiento del UAS

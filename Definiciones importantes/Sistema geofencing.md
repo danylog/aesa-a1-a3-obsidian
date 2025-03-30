@@ -1,0 +1,1 @@
+volumen operacional/ límite virtual del [[espacio aéreo]] establecido mediante geolocalización, dentro del cual la aeronave NO PODRÁ volar.

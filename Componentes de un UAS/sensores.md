@@ -8,7 +8,6 @@ Sensores incluidos en un [[UAS]]:
   
   
 
-- Sistema geofencing: volumen operacional/ límite virtual del espacio aéreo establecido mediante geolocalización, dentro del cual la aeronave NO PODRÁ volar.
-- Sistema geocaging: volumen operacional SOLO EN EL CUAL la aeronave podrá volar.
+
 ![[Pasted image 20250331003015.png]]
 
