@@ -31,6 +31,26 @@ cellStyleRules: []
 
 ```
 Para pasar:
+- [x] Concepto Normativo
+	- [x] Conceptos básicos
+	- [x] Contexto histórico
+	- [x] Marco normativo
+		- [x] Reglamento Delegado (UE) 2019/945 de la Comisión
+		- [x] Reglamento Delegado (UE) 2019/947 de la Comisión
+		- [x] Real Decreto de UAS
+	- [x] Definiciones importantes
+	- [x] Procedimientos principales aplicables al uso de UAS
+		- [x] Categorías de operación y clases de UAS
+			- [x] Categoría abierta
+			- [x] Categoría específica
+			- [x] Categoría certificada
+		- [x] Edades mínimas de operadores de UAS y de pilotos a distancia
+			- [x] Operador de UAS
+			- [x] Pilotos a distancia
+		- [x] Registro y responsabilidades del operador de UAS
+			- [x] Registro del operador de UAS
+			- [x] Responsabilidades del operador de UAS en categoría abierta
+		- [x] Responsabilidades del piloto UAS en categoría abierta
 - [ ] Conocimiento general del vuelo con UAS
 	- [x] Principio básicos del vuelo
 		- [x] Fuerzas que actúan
@@ -43,7 +63,7 @@ Para pasar:
 		- [x] Principios de mando y control
 			- [x] Descripción del sistema de mando y control
 			- [x] Estación de control
-			- [x] Controles de vuelo
+			- [ ] Controles de vuelo
 		- [ ] Comunicaciones
 		- [ ] Sensores incluidos en los UAS
 		- [ ] Instrumentos de vuelo
@@ -64,7 +84,7 @@ Para pasar:
 	- [ ] Seguridad física de UAS
 		- [ ] Interferencias ilícitas - Robo y secuestro del UAS
 		- [ ] Seguridad para el manejo del UAS
-	- [ ] Seguro y accidentes e incidentes de UA
+	- [ ] Seguro y accidentes e incidentes de UAS
 		- [ ] Seguros de responsabilidad civil
 		- [ ] Incidentes con UAS y reporte.
 - [ ] Procedimientos operacionales
@@ -78,4 +98,4 @@ Para pasar:
 		- [ ] Procedimiento de contingencia o de emergencia
 	- [ ] Procedimientos operacionales posteriores al vuelo
 		- [ ] Registro de la operación
-		- [ ] Mantenimiento del UAS
+		- [ ] Mantenimiento del UAS 
