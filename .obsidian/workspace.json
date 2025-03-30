@@ -6,7 +6,7 @@
       {
         "id": "ac540a2c8eb631b8",
         "type": "tabs",
-        "dimension": 44.74308300395257,
+        "dimension": 80.03992015968065,
         "children": [
           {
             "id": "cb35eafb8210c630",
@@ -126,7 +126,7 @@
       {
         "id": "1da8509f539b86d9",
         "type": "tabs",
-        "dimension": 55.25691699604744,
+        "dimension": 19.960079840319363,
         "children": [
           {
             "id": "d443a1c6927390ad",
@@ -413,12 +413,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1625710fa7f67a39",
+  "active": "ba6d299e3f37bd49",
   "lastOpenFiles": [
+    "Teoría de vuelo/Eje-movimiento-actuación.md",
     "attachments/Pasted image 20250328232921.png",
     "attachments/Pasted image 20250328232904.png",
     "Teoría de vuelo/Actuador o superficies de control.md",
-    "Teoría de vuelo/Eje-movimiento-actuación.md",
     "Teoría de vuelo/Movimientos de vuelo.md",
     "README.md",
     "Definiciones importantes/Sistema de geoconsciencia.md",
@@ -451,7 +451,6 @@
     "attachments/Pasted image 20250325222311.png",
     "attachments/Pasted image 20250325221226.png",
     "attachments/Pasted image 20250325211723.png",
-    "attachments/Pasted image 20250325211235.png",
     "Teoría de vuelo",
     "Categoría certificada",
     "Clases de UAS",
