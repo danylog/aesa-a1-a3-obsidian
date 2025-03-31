@@ -71,7 +71,7 @@ Para pasar:
 		- [x] Mantenimiento del UAS
 	- [x] Espacio aéreo
 		- [x] Introducción de UAS en el espacio aéreo
-		- [ ] Definiciones del espacio aéreo
+		- [x] Definiciones del espacio aéreo
 		- [ ] Estructura del espacio aéreo
 		- [ ] Restricciones del espacio aéreo
 		- [ ] Condiciones operacionales aplicables a las zonas geográficas de los UAS.
