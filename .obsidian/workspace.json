@@ -39,6 +39,20 @@
             }
           },
           {
+            "id": "4c67a4ea94a5e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espacio aéreo/Espacio aéreo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Espacio aéreo"
+            }
+          },
+          {
             "id": "a9475b71cd2f0aaa",
             "type": "leaf",
             "state": {
@@ -79,8 +93,23 @@
               "icon": "lucide-file",
               "title": "Mantenimiento del UAS"
             }
+          },
+          {
+            "id": "09402bf87f07c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espacio aéreo/Tipos de Espacio aéreo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Espacio aéreo"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "1da8509f539b86d9",
@@ -97,6 +126,20 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "d80cb159771c5161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definiciones importantes/Observador del espacio aéreo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Observador del espacio aéreo"
             }
           }
         ]
@@ -131,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meteo",
+                "query": "espacio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,8 +314,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cb35eafb8210c630",
+  "active": "09402bf87f07c5f7",
   "lastOpenFiles": [
+    "Espacio aéreo/Espacio aéreo.md",
+    "Espacio aéreo/Tipos de Espacio aéreo.md",
+    "Espacio aéreo/Definiciones del espacio aéreo.md",
+    "attachments/Pasted image 20250331132208.png",
+    "Espacio aéreo/altitud.md",
+    "README.md",
+    "Definiciones importantes/Instrumentos de vuelo.md",
+    "Definiciones importantes/latencia.md",
+    "Espacio aéreo/U-Space.md",
+    "Definiciones importantes/Observador del espacio aéreo.md",
+    "Espacio aéreo",
+    "leyes/Real Decreto 2024/517.md",
+    "leyes/UE2019/945.md",
+    "Componentes de un UAS/Placa controladora del vuelo.md",
     "Teoría de vuelo/Mantenimiento del UAS.md",
     "Teoría de vuelo/Información imprescindible del UAS.md",
     "Teoría de vuelo/Control del UAS en todas la Fases de vuelo.md",
@@ -284,23 +341,11 @@
     "Teoría de vuelo/Tercera ley de Newton.md",
     "Teoría de vuelo/Principios básicos de vuelo.md",
     "Teoría de vuelo/Actuador o superficies de control.md",
-    "README.md",
     "attachments/Pasted image 20250331004242.png",
     "Teoría de vuelo/Empuje.md",
     "Teoría de vuelo/Principio de Bernoulli.md",
     "Teoría de vuelo/Eje-movimiento-actuación.md",
-    "Definiciones importantes/Instrumentos de vuelo.md",
-    "Definiciones importantes/latencia.md",
-    "Definiciones importantes/Zonas Geográficas.md",
-    "Definiciones importantes/Sistema geocaging.md",
-    "Definiciones importantes/Sistema geofencing.md",
-    "Componentes de un UAS/sensores.md",
-    "Definiciones importantes/Modo sígueme.md",
-    "Componentes de un UAS/Servicios de comunicaciones.md",
-    "Definiciones importantes/Vuelta a casa.md",
-    "Conceptos básicos/UAS.md",
     "attachments/Pasted image 20250331003015.png",
-    "Componentes de un UAS/Unidad de mando y control.md",
     "attachments/Pasted image 20250330191633.png",
     "attachments/Pasted image 20250330191455.png",
     "attachments/Pasted image 20250330191344.png",
@@ -308,7 +353,6 @@
     "attachments/Pasted image 20250328232904.png",
     "attachments/Pasted image 20250326214539.png",
     "attachments/Pasted image 20250326214347.png",
-    "attachments/Pasted image 20250325230700.png",
     "Componentes de un UAS",
     "Teoría de vuelo",
     "Categoría certificada",
@@ -317,7 +361,6 @@
     "Categoría específica",
     "organismos",
     "Categoria abierta",
-    "leyes",
-    "Definiciones importantes"
+    "leyes"
   ]
 }

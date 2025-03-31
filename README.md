@@ -69,8 +69,8 @@ Para pasar:
 		- [x] Instrumentos de vuelo
 		- [x] Información imprescindible del UAS
 		- [x] Mantenimiento del UAS
-	- [ ] Espacio aéreo
-		- [ ] Introducción de UAS en el espacio aéreo
+	- [x] Espacio aéreo
+		- [x] Introducción de UAS en el espacio aéreo
 		- [ ] Definiciones del espacio aéreo
 		- [ ] Estructura del espacio aéreo
 		- [ ] Restricciones del espacio aéreo

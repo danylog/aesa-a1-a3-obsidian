@@ -69,9 +69,16 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:\"Espacio aéreo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 2.07525951557093,
@@ -81,6 +88,6 @@
   "repelStrength": 13.2126696832579,
   "linkStrength": 0.557448318693994,
   "linkDistance": 30,
-  "scale": 0.4559276280328419,
+  "scale": 0.4459138840177196,
   "close": true
 }

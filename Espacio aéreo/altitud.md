@@ -1,0 +1,1 @@
+NO ES LO MISMO QUE [[altura]], por presión barometrica, por encima del nivel del mar.
