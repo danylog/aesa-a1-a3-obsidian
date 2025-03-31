@@ -66,9 +66,9 @@ Para pasar:
 			- [x] Controles de vuelo
 		- [x] Comunicaciones
 		- [x] Sensores incluidos en los UAS
-		- [ ] Instrumentos de vuelo
-		- [ ] Información imprescindible del UAS
-		- [ ] Mantenimiento del UAS
+		- [x] Instrumentos de vuelo
+		- [x] Información imprescindible del UAS
+		- [x] Mantenimiento del UAS
 	- [ ] Espacio aéreo
 		- [ ] Introducción de UAS en el espacio aéreo
 		- [ ] Definiciones del espacio aéreo
