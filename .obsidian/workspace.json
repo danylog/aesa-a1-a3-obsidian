@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espacio aéreo/Zonas Geográficas.md",
+                "file": "Espacio aéreo/Zonas Geográficas particulares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zonas Geográficas"
+              "title": "Zonas Geográficas particulares"
             }
           },
           {
@@ -344,8 +344,8 @@
   },
   "active": "7cf133210246a115",
   "lastOpenFiles": [
-    "Espacio aéreo/Zonas Geográficas generales.md",
     "Espacio aéreo/Zonas Geográficas.md",
+    "Espacio aéreo/Zonas Geográficas generales.md",
     "Espacio aéreo/Zonas Geográficas particulares.md",
     "Espacio aéreo/Definiciones del espacio aéreo.md",
     "Espacio aéreo/Espacio aéreo.md",

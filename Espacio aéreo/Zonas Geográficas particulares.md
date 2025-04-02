@@ -1,0 +1,1 @@
+Se trata de zonas con restricción temporal o permanente aprobadas por la comisión Interministral entre Defensa y Transportes (CIDETRA)
