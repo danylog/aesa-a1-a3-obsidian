@@ -1,5 +1,5 @@
 **TIPOS:**
-- Controlado: Donde se facilita el servicio de control de tránsito aéreo (ATC: Air traffic control a los vuelor [[Definiciones del espacio aéreo#^1d4192|IFR y VFR]])
+- Controlado: Donde se facilita el servicio de control de tránsito aéreo (ATC: Air traffic control a los vuelor [[IFR]] y [[VFR]])
 - NO Controlado: Donde NO se presta
 
 ![[Pasted image 20250331133608.png]]

@@ -1,0 +1,1 @@
+(Visual Flight Rules): Conjunto de normas contenidas en el Reglamento de [[EASA]] (UE 923/2012 del SERA (Standardised European Rules of the Air)).

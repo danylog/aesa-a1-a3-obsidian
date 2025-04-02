@@ -1,0 +1,1 @@
+(Flight level) Nivel de vuelo. [[altitud]] de una aeronave a la [[presión]] atmosférica estándar, expresada en pies (ft).

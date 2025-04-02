@@ -1,0 +1,1 @@
+(Instrumental Flight rules): Conjunto de normas y procedimientos contemplados en el Reglamento de Circuilación aérera que regulan el vuelo de aeronaves con base en el uso de instrumentos para la navegación, lo cual implica que no es necesario tener contacto visual con el terreno ([[Operación dentro del alcance visual (VLOS)]]) ^1d4192
