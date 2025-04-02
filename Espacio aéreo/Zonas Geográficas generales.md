@@ -1,0 +1,5 @@
+- Prohibidas, restringidas y asociadas a la gestión del espacio aéreo definida en el Real Decreto 1108/2018
+- Por Razón de Seguridad Militar
+- Por razón de protección de bienes del Estado o que prestan servicios a la comunidad
+- Por Razón de seguridad operacional en el entorno de aeródromos, aeropuertos, helipuertos, etc.
+- Por Razón de protección de ciudadanos y bienes en entornos urbanos.
