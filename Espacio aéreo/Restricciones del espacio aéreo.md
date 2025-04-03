@@ -13,4 +13,12 @@ Cuando la autoridad Aérea de un [[Estados miembros]] decide que alguna parte es
 	- Espacio aéreo temporalmente reservado (TRA)
 	- Zonas restringidas al vuelo fotográfico (ZRFV)
 	- Zonas de fauna sensible (F)
-	
+
+En zonas del espacio aéreo controladas (FIZ) estarán permitidas operaciones UAS siempre que cumplan:
+
+- [[Operación dentro del alcance visual (VLOS)]]
+- [[altura]] máxima de 60m AGL
+- fuera de las [[Zonas Geográficas]]
+
+Quedarán excentos si se coordina on ATSP, se presenta un plan de vuelo y se dispone de previa autorización [[Estructura del espacio aéreo#^6914cc|ATC]]
+
