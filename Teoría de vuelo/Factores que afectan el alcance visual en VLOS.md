@@ -1,0 +1,7 @@
+- Condiciones climáticas ([[meteorología]]): lluvia, niebla, nieve, etc.
+- Luminosidad: Falta o exceso de luminosidad (vuelos sin luz solar, vuelos con sol de cara, atardeceres, amaneceres, etc.)
+- Contraste
+- Superfície del terreno
+- Ayudas visuales
+- Tamaño de [[UAS]]
+- 

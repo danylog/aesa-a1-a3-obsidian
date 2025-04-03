@@ -1,0 +1,1 @@
+El [[Piloto a distancia]] debe evaluar los efectos secundarios de medicación que está tomando para proceder a un vuelo seguro

@@ -9,7 +9,7 @@
         "dimension": 53.29754601226993,
         "children": [
           {
-            "id": "cb35eafb8210c630",
+            "id": "5323dfa3a9be13f8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -72,21 +72,49 @@
             }
           },
           {
-            "id": "5323dfa3a9be13f8",
+            "id": "edbb7f6561b72734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leyes/Notificaciones/Notificación de sucesos de seguridad.md",
+                "file": "Espacio aéreo/FL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notificación de sucesos de seguridad"
+              "title": "FL"
+            }
+          },
+          {
+            "id": "e94e3ef5ff2adf19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoría de vuelo/Aerodinámica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aerodinámica"
+            }
+          },
+          {
+            "id": "6f04106cd84b99aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoría de vuelo/Factores que afectan el alcance visual en VLOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factores que afectan el alcance visual en VLOS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,37 +286,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5323dfa3a9be13f8",
+  "active": "6f04106cd84b99aa",
   "lastOpenFiles": [
-    "leyes/Edades mínimas.md",
+    "Teoría de vuelo/Limitaciones de Factores humanos.md",
+    "Teoría de vuelo/Factores que afectan el alcance visual en VLOS.md",
+    "README.md",
+    "Teoría de vuelo/Emociones.md",
+    "Teoría de vuelo/Fatiga.md",
+    "Teoría de vuelo/Alcohol.md",
+    "Teoría de vuelo/Estrés.md",
+    "Teoría de vuelo/Medicación.md",
+    "Teoría de vuelo/Enfermedad.md",
+    "Teoría de vuelo/Aerodinámica.md",
+    "Espacio aéreo/U-Space.md",
+    "Definiciones importantes/Observador del espacio aéreo.md",
+    "Espacio aéreo/FL.md",
+    "Definiciones importantes/Modo sígueme.md",
     "leyes/Notificaciones/Notificación de sucesos de seguridad.md",
+    "leyes/Edades mínimas.md",
     "leyes/Notificaciones",
     "Espacio aéreo/Restricciones del espacio aéreo.md",
     "Espacio aéreo/Espacio aéreo.md",
     "Espacio aéreo/Estructura del espacio aéreo.md",
-    "README.md",
-    "Definiciones importantes/Observador del espacio aéreo.md",
     "Espacio aéreo/Zonas Geográficas.md",
     "organismos/EASA.md",
     "organismos/Estados miembros.md",
-    "Definiciones importantes/Modo sígueme.md",
     "Espacio aéreo/Zonas Geográficas particulares.md",
     "Espacio aéreo/Zonas Geográficas generales.md",
     "Espacio aéreo/Definiciones del espacio aéreo.md",
     "attachments/Pasted image 20250402235133.png",
     "attachments/Pasted image 20250402235032.png",
     "Espacio aéreo/IFR.md",
-    "Definiciones importantes/Instrumentos de vuelo.md",
-    "Espacio aéreo/VFR.md",
-    "Espacio aéreo/FL.md",
-    "Teoría de vuelo/Ángulo de ataque.md",
-    "Teoría de vuelo/perfil aerodinámico.md",
-    "Componentes de un UAS/hélice.md",
-    "Componentes de un UAS/rotor.md",
-    "Teoría de vuelo/Sustentación.md",
-    "Teoría de vuelo/Aerodinámica.md",
-    "Teoría de vuelo/Principios básicos de vuelo.md",
-    "Categoria abierta/Categoría abierta.md",
     "attachments/Pasted image 20250331133608.png",
     "attachments/Pasted image 20250331133548.png",
     "attachments/Pasted image 20250331132208.png",

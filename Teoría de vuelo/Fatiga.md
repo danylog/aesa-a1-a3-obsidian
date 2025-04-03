@@ -1,0 +1,1 @@
+Afecta de forma diferente a cada [[Piloto a distancia]], se debe evaluar el efecto.

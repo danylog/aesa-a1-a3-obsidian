@@ -1,0 +1,1 @@
+El [[Piloto a distancia]] debe evaluar su estado de ánimo antes de empezar cualquier operación.

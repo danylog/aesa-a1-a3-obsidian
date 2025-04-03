@@ -75,12 +75,12 @@ Para pasar:
 		- [x] Estructura del espacio aéreo
 		- [x] Restricciones del espacio aéreo
 		- [x] Condiciones operacionales aplicables a las zonas geográficas de los UAS.
-	- [ ] Limitaciones de factores humanos
-		- [ ] Influencia de sustancias psicoactivas, alcohol o cuando el piloto a distancia no se encuentra apto.
+	- [x] Limitaciones de factores humanos
+		- [x] Influencia de sustancias psicoactivas, alcohol o cuando el piloto a distancia no se encuentra apto.
 		- [ ] Percepción humana
 	- [ ] Privacidad y protección de datos
 		- [ ] Qué es la privacidad y la protección de datos?
-		- [ ] Qué se puede y qué no se puede hacer con un UAS con capacidad de captura de información?
+		- [ ] Qué se puede y qué no se puede hacer con un UAS con capacidad,de captura de información?
 	- [ ] Seguridad física de UAS
 		- [ ] Interferencias ilícitas - Robo y secuestro del UAS
 		- [ ] Seguridad para el manejo del UAS

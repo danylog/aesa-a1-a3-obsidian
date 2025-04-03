@@ -1,0 +1,3 @@
+- Estrés fisiológico: Esta relacionado por la [[fatiga]] física (jet-lag, ejercicio, fuera de forma, etc)
+- Estrés producido por el **entorno**: producido por todo que nos rodea, exceso de ruido o nivel de oxígeno
+- Estrés **psicológico** Producido por la ansiedad, [[fatiga]] mental o factores de [[Emociones]]
