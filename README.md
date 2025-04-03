@@ -8,7 +8,7 @@ Latest graph view (30.03.2025)
 
 ```contributionGraph
 title: Contributions
-graphType: calendar
+graphType: default
 dateRangeValue: 14
 dateRangeType: LATEST_DAYS
 startOfWeek: "1"
@@ -51,7 +51,7 @@ Para pasar:
 			- [x] Registro del operador de UAS
 			- [x] Responsabilidades del operador de UAS en categoría abierta
 		- [x] Responsabilidades del piloto UAS en categoría abierta
-- [ ] Conocimiento general del vuelo con UAS
+- [x] Conocimiento general del vuelo con UAS
 	- [x] Principio básicos del vuelo
 		- [x] Fuerzas que actúan
 		- [x] Principio aerodinámicos
