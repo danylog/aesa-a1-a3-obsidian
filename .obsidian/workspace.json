@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría de vuelo/Factores que afectan el alcance visual en VLOS.md",
+                "file": "Teoría de vuelo/Limitaciones de Factores humanos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factores que afectan el alcance visual en VLOS"
+              "title": "Limitaciones de Factores humanos"
             }
           }
         ],
@@ -288,8 +288,8 @@
   },
   "active": "6f04106cd84b99aa",
   "lastOpenFiles": [
-    "Teoría de vuelo/Limitaciones de Factores humanos.md",
     "Teoría de vuelo/Factores que afectan el alcance visual en VLOS.md",
+    "Teoría de vuelo/Limitaciones de Factores humanos.md",
     "README.md",
     "Teoría de vuelo/Emociones.md",
     "Teoría de vuelo/Fatiga.md",

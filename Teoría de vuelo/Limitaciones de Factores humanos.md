@@ -14,3 +14,10 @@ Percepción:
 - Al operar un [[UAS]] se debe estar consciente de:
 	- limitaciones de percepción humana
 	-[[Factores que afectan el alcance visual en VLOS|Factores que la afectan]]
+
+Limitaciones de percepción humana del UAS:
+
+ - [[altura]] o [[altitud]]
+ - [[Velocidad]]
+ - distancia
+ 
