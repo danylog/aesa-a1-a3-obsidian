@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedimientos operacionales/Procedimientos operacionales durante el vuelo.md",
+                "file": "Procedimientos operacionales/Procedimiento de contingencia o emergencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procedimientos operacionales durante el vuelo"
+              "title": "Procedimiento de contingencia o emergencia"
             }
           }
         ],
@@ -316,13 +316,18 @@
   },
   "active": "91fd874a8a642ca9",
   "lastOpenFiles": [
+    "Procedimientos operacionales/Procedimientos operacionales durante el vuelo.md",
+    "Procedimientos operacionales/Procedimiento normal del vuelo.md",
+    "attachments/Pasted image 20250403185937.png",
+    "Definiciones importantes/Consistencia situacional.md",
+    "Procedimientos operacionales/Procedimiento de contingencia o emergencia.md",
+    "attachments/Pasted image 20250403185401.png",
+    "README.md",
     "Procedimientos operacionales/Procedimientos operacionales.md",
     "Procedimientos operacionales/Procedimientos operacionales previos al vuelo.md",
     "Procedimientos operacionales/entorno.md",
     "Procedimientos operacionales/meteorología.md",
     "Procedimientos operacionales/Procedimientos operacionales posteriores al vuelo.md",
-    "Procedimientos operacionales/Procedimientos operacionales durante el vuelo.md",
-    "README.md",
     "Procedimientos operacionales",
     "Teoría de vuelo/Peso.md",
     "leyes/Privacidad y Protección de datos/Privacidad y protección de datos.md",
@@ -341,10 +346,6 @@
     "Teoría de vuelo/Limitaciones de Factores humanos.md",
     "Teoría de vuelo/Factores que afectan el alcance visual en VLOS.md",
     "Teoría de vuelo/Emociones.md",
-    "Teoría de vuelo/Fatiga.md",
-    "Teoría de vuelo/Alcohol.md",
-    "Teoría de vuelo/Estrés.md",
-    "Teoría de vuelo/Medicación.md",
     "leyes/Notificaciones",
     "attachments/Pasted image 20250402235133.png",
     "attachments/Pasted image 20250402235032.png",
@@ -355,8 +356,6 @@
     "attachments/Pasted image 20250331004242.png",
     "attachments/Pasted image 20250331003015.png",
     "attachments/Pasted image 20250330191633.png",
-    "attachments/Pasted image 20250330191455.png",
-    "attachments/Pasted image 20250330191344.png",
     "Componentes de un UAS",
     "Teoría de vuelo",
     "Categoría certificada",

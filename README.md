@@ -87,12 +87,12 @@ Para pasar:
 	- [x] Seguro y accidentes e incidentes de UAS
 		- [x] Seguros de responsabilidad civil
 		- [x] Incidentes con UAS y reporte.
-- [ ] Procedimientos operacionales
-	- [ ] Procedimientos operacionales previos al vuelo
-		- [ ] Meteorología
-		- [ ] Entorno de la operación
-		- [ ] UAS
-		- [ ] Limitaciones humanas
+- [x] Procedimientos operacionales
+	- [x] Procedimientos operacionales previos al vuelo
+		- [x] Meteorología
+		- [x] Entorno de la operación
+		- [x] UAS
+		- [x] Limitaciones humanas
 	- [ ] Procedimientos operacionales durante el vuelo
 		- [ ] Procedimiento normal de vuelo
 		- [ ] Procedimiento de contingencia o de emergencia
