@@ -4,4 +4,3 @@
 - Superfície del terreno
 - Ayudas visuales
 - Tamaño de [[UAS]]
-- 

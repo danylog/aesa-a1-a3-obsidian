@@ -77,16 +77,16 @@ Para pasar:
 		- [x] Condiciones operacionales aplicables a las zonas geográficas de los UAS.
 	- [x] Limitaciones de factores humanos
 		- [x] Influencia de sustancias psicoactivas, alcohol o cuando el piloto a distancia no se encuentra apto.
-		- [ ] Percepción humana
-	- [ ] Privacidad y protección de datos
-		- [ ] Qué es la privacidad y la protección de datos?
-		- [ ] Qué se puede y qué no se puede hacer con un UAS con capacidad,de captura de información?
-	- [ ] Seguridad física de UAS
-		- [ ] Interferencias ilícitas - Robo y secuestro del UAS
-		- [ ] Seguridad para el manejo del UAS
-	- [ ] Seguro y accidentes e incidentes de UAS
-		- [ ] Seguros de responsabilidad civil
-		- [ ] Incidentes con UAS y reporte.
+		- [x] Percepción humana
+	- [x] Privacidad y protección de datos
+		- [x] Qué es la privacidad y la protección de datos?
+		- [x] Qué se puede y qué no se puede hacer con un UAS con capacidad,de captura de información?
+	- [x] Seguridad física de UAS
+		- [x] Interferencias ilícitas - Robo y secuestro del UAS
+		- [x] Seguridad para el manejo del UAS
+	- [x] Seguro y accidentes e incidentes de UAS
+		- [x] Seguros de responsabilidad civil
+		- [x] Incidentes con UAS y reporte.
 - [ ] Procedimientos operacionales
 	- [ ] Procedimientos operacionales previos al vuelo
 		- [ ] Meteorología

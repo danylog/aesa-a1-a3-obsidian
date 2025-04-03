@@ -1,0 +1,2 @@
+- Identificada: Aquella que permite identificar directamente o indirectamente (cara, matrícula, documentos, ubicación)
+- Identificable: aquello que permite solo con previo conocimiento: factores físicos, psicológicos, genéticos, mentales, etc.

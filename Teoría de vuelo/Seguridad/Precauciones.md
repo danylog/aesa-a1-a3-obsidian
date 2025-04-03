@@ -1,0 +1,12 @@
+Comprobar:
+- [[Carga de pago]]
+- [[Grupo motopropulsor]]
+- Equipamiento personal: se recomienda proteger las partes más vulnerables frente a caídas de carga y daños causados por hélices.
+- [[Baterías]]:
+	- Durante la carga: 
+		- Vigilar
+		- Usar cargadores originales
+	- Transporte y almacenamiento
+		- Descargar/Cargar al 30-40%
+		- Usar bolsas ignífugas
+		- Fuera de fuentes de calor
