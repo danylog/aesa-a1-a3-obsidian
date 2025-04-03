@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 65310
       }
+    },
+    {
+      "query": "path:\"Procedimientos operacionales\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 13.2126696832579,
   "linkStrength": 0.557448318693994,
   "linkDistance": 30,
-  "scale": 0.9992701587648833,
+  "scale": 0.47487385005075994,
   "close": true
 }

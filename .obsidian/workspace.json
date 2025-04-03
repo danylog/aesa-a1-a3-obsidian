@@ -6,7 +6,7 @@
       {
         "id": "ac540a2c8eb631b8",
         "type": "tabs",
-        "dimension": 53.29754601226993,
+        "dimension": 84.66257668711657,
         "children": [
           {
             "id": "5323dfa3a9be13f8",
@@ -29,7 +29,7 @@
       {
         "id": "1da8509f539b86d9",
         "type": "tabs",
-        "dimension": 46.70245398773007,
+        "dimension": 15.337423312883436,
         "children": [
           {
             "id": "fb822d4c2d1e5ef5",
@@ -141,8 +141,7 @@
               "title": "A2"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,6 +316,8 @@
   },
   "active": "5323dfa3a9be13f8",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250403211556.png",
+    "README.md",
     "Categoria abierta/A2.md",
     "Teoría de vuelo/Guiñada.md",
     "Teoría de vuelo/Movimientos de vuelo.md",
@@ -327,7 +328,6 @@
     "Procedimientos operacionales/Procedimientos operacionales.md",
     "Procedimientos operacionales/Procedimientos operacionales durante el vuelo.md",
     "Procedimientos operacionales/Procedimiento de contingencia o emergencia.md",
-    "README.md",
     "Procedimientos operacionales/Procedimiento normal del vuelo.md",
     "attachments/Pasted image 20250403185937.png",
     "Definiciones importantes/Consistencia situacional.md",
@@ -345,7 +345,6 @@
     "Teoría de vuelo/Seguridad/Seguro de responsabilidad civil.md",
     "Teoría de vuelo/Seguridad/Precauciones.md",
     "Teoría de vuelo/Seguridad/Seguridad para el manejo.md",
-    "Teoría de vuelo/Seguridad/Interferencia ilícita.md",
     "Teoría de vuelo/Seguridad",
     "leyes/Privacidad y Protección de datos",
     "leyes/Notificaciones",
