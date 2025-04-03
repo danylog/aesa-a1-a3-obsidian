@@ -93,9 +93,9 @@ Para pasar:
 		- [x] Entorno de la operación
 		- [x] UAS
 		- [x] Limitaciones humanas
-	- [ ] Procedimientos operacionales durante el vuelo
-		- [ ] Procedimiento normal de vuelo
-		- [ ] Procedimiento de contingencia o de emergencia
-	- [ ] Procedimientos operacionales posteriores al vuelo
-		- [ ] Registro de la operación
-		- [ ] Mantenimiento del UAS 
+	- [x] Procedimientos operacionales durante el vuelo
+		- [x] Procedimiento normal de vuelo
+		- [x] Procedimiento de contingencia o de emergencia
+	- [x] Procedimientos operacionales posteriores al vuelo
+		- [x] Registro de la operación
+		- [x] Mantenimiento del UAS 

@@ -1,0 +1,1 @@
+Es recomendable anotar toda la info relevante del vuelo, **horas** del vuelo. De esta forma se puede garantizar en todo momento el control sobre el estado de la aeronave, de cara a realizar el [[Mantenimiento del UAS]].
