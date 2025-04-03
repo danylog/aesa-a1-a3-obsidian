@@ -72,8 +72,8 @@ Para pasar:
 	- [x] Espacio aéreo
 		- [x] Introducción de UAS en el espacio aéreo
 		- [x] Definiciones del espacio aéreo
-		- [ ] Estructura del espacio aéreo
-		- [ ] Restricciones del espacio aéreo
+		- [x] Estructura del espacio aéreo
+		- [x] Restricciones del espacio aéreo
 		- [ ] Condiciones operacionales aplicables a las zonas geográficas de los UAS.
 	- [ ] Limitaciones de factores humanos
 		- [ ] Influencia de sustancias psicoactivas, alcohol o cuando el piloto a distancia no se encuentra apto.

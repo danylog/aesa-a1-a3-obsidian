@@ -15,129 +15,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definiciones importantes/Modo sígueme.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Modo sígueme"
-            }
-          },
-          {
-            "id": "7cf133210246a115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Espacio aéreo/Zonas Geográficas particulares.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zonas Geográficas particulares"
-            }
-          },
-          {
-            "id": "4c67a4ea94a5e6ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Espacio aéreo/Espacio aéreo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Espacio aéreo"
-            }
-          },
-          {
-            "id": "a9475b71cd2f0aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría de vuelo/Actuador o superficies de control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actuador o superficies de control"
-            }
-          },
-          {
-            "id": "13880ae2634df5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría de vuelo/Información imprescindible del UAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Información imprescindible del UAS"
-            }
-          },
-          {
-            "id": "c3560a1880a2652e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría de vuelo/Mantenimiento del UAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mantenimiento del UAS"
-            }
-          },
-          {
-            "id": "09402bf87f07c5f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Espacio aéreo/Espacio aéreo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Espacio aéreo"
-            }
-          },
-          {
-            "id": "3dc0809ae847aa42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría de vuelo/Ángulo de ataque.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ángulo de ataque"
-            }
-          },
-          {
-            "id": "e166e2ebf29e6671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Espacio aéreo/VFR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VFR"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1da8509f539b86d9",
@@ -169,8 +56,23 @@
               "icon": "lucide-file",
               "title": "Observador del espacio aéreo"
             }
+          },
+          {
+            "id": "9f44b21bd03cc54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espacio aéreo/Zonas Geográficas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zonas Geográficas"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -342,20 +244,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7cf133210246a115",
+  "active": "9f44b21bd03cc54b",
   "lastOpenFiles": [
+    "organismos/EASA.md",
+    "organismos/Estados miembros.md",
     "Espacio aéreo/Zonas Geográficas.md",
-    "Espacio aéreo/Zonas Geográficas generales.md",
-    "Espacio aéreo/Zonas Geográficas particulares.md",
-    "Espacio aéreo/Definiciones del espacio aéreo.md",
+    "README.md",
     "Espacio aéreo/Espacio aéreo.md",
+    "Definiciones importantes/Modo sígueme.md",
+    "Espacio aéreo/Zonas Geográficas particulares.md",
+    "Espacio aéreo/Zonas Geográficas generales.md",
+    "Espacio aéreo/Definiciones del espacio aéreo.md",
     "Espacio aéreo/Estructura del espacio aéreo.md",
     "attachments/Pasted image 20250402235133.png",
     "attachments/Pasted image 20250402235032.png",
     "Espacio aéreo/Restricciones del espacio aéreo.md",
     "Espacio aéreo/IFR.md",
     "Definiciones importantes/Instrumentos de vuelo.md",
-    "Definiciones importantes/Modo sígueme.md",
     "Espacio aéreo/VFR.md",
     "Espacio aéreo/FL.md",
     "Teoría de vuelo/Ángulo de ataque.md",
@@ -371,9 +276,6 @@
     "Clases de UAS/C2.md",
     "attachments/Pasted image 20250331133608.png",
     "attachments/Pasted image 20250331133548.png",
-    "Espacio aéreo/altitud.md",
-    "Definiciones importantes/altura.md",
-    "README.md",
     "attachments/Pasted image 20250331132208.png",
     "Espacio aéreo",
     "attachments/Pasted image 20250331004242.png",
