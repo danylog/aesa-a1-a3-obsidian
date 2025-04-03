@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espacio aéreo/Zonas Geográficas.md",
+                "file": "Espacio aéreo/Restricciones del espacio aéreo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zonas Geográficas"
+              "title": "Restricciones del espacio aéreo"
             }
           }
         ],
@@ -246,11 +246,13 @@
   },
   "active": "9f44b21bd03cc54b",
   "lastOpenFiles": [
+    "README.md",
+    "Espacio aéreo/Restricciones del espacio aéreo.md",
+    "Definiciones importantes/Observador del espacio aéreo.md",
+    "Espacio aéreo/Espacio aéreo.md",
+    "Espacio aéreo/Zonas Geográficas.md",
     "organismos/EASA.md",
     "organismos/Estados miembros.md",
-    "Espacio aéreo/Zonas Geográficas.md",
-    "README.md",
-    "Espacio aéreo/Espacio aéreo.md",
     "Definiciones importantes/Modo sígueme.md",
     "Espacio aéreo/Zonas Geográficas particulares.md",
     "Espacio aéreo/Zonas Geográficas generales.md",
@@ -258,7 +260,6 @@
     "Espacio aéreo/Estructura del espacio aéreo.md",
     "attachments/Pasted image 20250402235133.png",
     "attachments/Pasted image 20250402235032.png",
-    "Espacio aéreo/Restricciones del espacio aéreo.md",
     "Espacio aéreo/IFR.md",
     "Definiciones importantes/Instrumentos de vuelo.md",
     "Espacio aéreo/VFR.md",
@@ -273,7 +274,6 @@
     "Categoria abierta/Categoría abierta.md",
     "Clases de UAS/C3.md",
     "Categoria abierta/A1.md",
-    "Clases de UAS/C2.md",
     "attachments/Pasted image 20250331133608.png",
     "attachments/Pasted image 20250331133548.png",
     "attachments/Pasted image 20250331132208.png",
